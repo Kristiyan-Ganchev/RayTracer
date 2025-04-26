@@ -36,4 +36,5 @@ inline double random_double(double min, double max) {
 #include "vec3.h"
 #include "interval.h"
 #include "camera.h"
+#include "material.h"
 #endif#pragma once
